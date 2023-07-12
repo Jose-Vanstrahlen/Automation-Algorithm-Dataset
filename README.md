@@ -70,10 +70,10 @@ nltk.download('wordnet')
 . selenium
 . pip install selenium
 Install Chrome WebDriver and the PATH on your system:
-. from webdriver_manager.chrome import ChromeDriverManager
-. driver_path = ChromeDriverManager().install()
+. from webdriver_manager.chrome import ChromeDriverManager.
+. driver_path = ChromeDriverManager().install().
 
-
+-----------------
 ABOUT SELENIUM.
 Selenium Installation:
 install selenium using pip:
