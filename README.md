@@ -20,9 +20,13 @@ If you do not have virtualenv installed, install it with the following command:
 pip install virtualenv
 
 Then create and activate a virtual environment
-python -m venv venv.
-once activated. install:
-pip install -r requirements.txt
+. python -m venv venv.
+. for activate a virtual env:
+. env\Scripts\activate
+
+
+. once activated. install:
+. pip install -r requirements.txt
 ---------------------
 # Installing manual
 No additional installation required, included in the standard Python installation:
