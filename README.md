@@ -13,7 +13,18 @@ Different technologies were implemented such as; Web Scraping, Natural Language 
 
 # *** LIBRARIES ***
 
-Python standard libraries.
+# installing requierements.txt
+Python standard librariesFirst create a virtual environment.
+If you do not have virtualenv installed, install it with the following command:
+
+pip install virtualenv
+
+Then create and activate a virtual environment
+python -m venv venv.
+once activated. install:
+pip install -r requirements.txt
+---------------------
+# Installing manual
 No additional installation required, included in the standard Python installation:
 
 os
